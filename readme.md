@@ -16,18 +16,7 @@ written to learn how to use github.
 Clone the repository
 `git clone https://github.com/heliotech/hello.git`
 
-<button onclick="copyToClipboard()">(copy)</button>
-
-<script>
-  function copyToClipboard() {
-    const textToCopy = 'git clone https://github.com/heliotech/hello.git';
-    navigator.clipboard.writeText(textToCopy).then(() => {
-      alert('Copied to clipboard!');
-    }).catch(err => {
-      console.error('Could not copy text: ', err);
-    });
-  }
-</script>
+<a rel="noreferrer" target="_new" href="https://github.com/heliotech/hello.git">(copy)</a>
 
 ## Usage
 
