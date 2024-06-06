@@ -18,10 +18,10 @@ Clone the repository
 
 ## Usage
 
-# Go to the project directory
+### Go to the project directory
 `cd hello`
 
-# Start the application
+### Start the application
 `python hello.py`
 
 ## Usage
