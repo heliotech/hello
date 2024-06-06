@@ -1,0 +1,22 @@
+# FILES:
+# tmp editor files:
+*.swp
+
+# tmp build files:
+*.pyc
+*.pyo
+
+# tmp generated files:
+__pycache__
+
+# tmp generated files:
+*.egg-info
+
+# tmp generated files:
+*.egg
+
+# tmp generated files:
+*.egg-link
+
+# FOLDERS:
+/aux_ide/
