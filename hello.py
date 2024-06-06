@@ -19,7 +19,7 @@ ftitle = __file__.split("/", maxsplit=-1)[-1].split(".", maxsplit=-1)[0]
 print(f"{ftitle}: learning git, hello world!")
 
 # Further changes:
-name = input("Enter your name: ")
+name = input("Enter your name:\n> ")
 name = "dude" if name == "" else (f"{name}." if len(name) == 1 else name)
 
 # Git is working, fugitive also, but without reverting the changes…
