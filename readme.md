@@ -13,8 +13,6 @@ written to learn how to use github.
 
 ## Installation
 
-A step-by-step guide to install and set up the project
-
 Clone the repository
 `git clone https://github.com/heliotech/hello.git`
 
