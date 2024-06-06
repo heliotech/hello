@@ -15,7 +15,7 @@ written to learn how to use github.
 
 A step-by-step guide to install and set up the project
 
-## Clone the repository
+Clone the repository
 `git clone https://github.com/heliotech/hello.git`
 
 ## Usage
