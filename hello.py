@@ -15,3 +15,8 @@ version: 0.0.1
 ftitle = __file__.split("/", maxsplit=-1)[-1].split(".", maxsplit=-1)[0]
 
 print(f"{ftitle}: learning git, hello world!")
+
+# Further changes:
+name = input("Enter your name: ")
+
+print(f"Hello, {name}!")
