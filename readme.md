@@ -14,9 +14,7 @@ written to learn how to use github.
 ## Installation
 
 Clone the repository
-`git clone https://github.com/heliotech/hello.git`
-
-<a rel="noreferrer" target="_new" href="https://github.com/heliotech/hello.git">(copy)</a>
+`git clone https://github.com/heliotech/hello.git` <a rel="noreferrer" target="_new" href="https://github.com/heliotech/hello.git">(copy)</a>
 
 ## Usage
 
